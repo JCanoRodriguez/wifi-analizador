@@ -55,4 +55,4 @@ sudo bash scripts/detener_monitor.sh wlan0
 
 ## Aviso ético
 
-Esta herramienta es exclusivamente para uso en redes propias o con autorización explícita del propietario. El uso no autorizado en redes ajenas es ilegal. Los autores no se responsabilizan por el uso indebido de esta herramienta.
+Esta herramienta es exclusivamente para uso en redes propias o con autorización explícita del propietario.
